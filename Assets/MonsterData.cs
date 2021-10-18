@@ -32,4 +32,6 @@ public class MonsterData : ScriptableObject
     public int getAgility { get { return agility; } }
     [SerializeField] int constitution = 0;
     public int getConstitution { get { return constitution; } }
+
+
 }
